@@ -1,0 +1,1 @@
+int trans(double *mat_tr, double *mat, int row, int col);
