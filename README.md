@@ -7,8 +7,6 @@ Steps to implement the demo transpose function in C:
 
 The tranpose functions is now loaded.<br/>
 Example:<br/>
-Input: <br/>
-transpose([1,2;3,0;2,5])<br/>
-Output:<br/> 
-1. 3. 2.<br/>
-2. 0. 5.
+Input: transpose([1,2;3,0;2,5])<br/>
+Output: 1. 3. 2.
+        2. 0. 5.
